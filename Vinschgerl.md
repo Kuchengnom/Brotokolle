@@ -26,6 +26,8 @@ Ofen auf **250°C** Vorheizen
 
 Ohne Dampf **25 Minuten** Backen. Temperatur direkt auf **230°C** senken.
 
+![Vinschgerl frisch aus dem Ofen](bilder/Vinschgerl.jpg)
+
 ## Quellen
 
 [Der Duft von frischem Brot – Österreichs beste Bäcker verraten ihre Rezepte](https://www.brandstaetterverlag.com/buch/der-duft-von-frischem-brot)
