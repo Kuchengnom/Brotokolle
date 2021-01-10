@@ -1,5 +1,7 @@
 # Weizen Roggen Mischbrot mit Saat
 
+![Weizenroggenmischbrot mit Saat](bilder/WeizenRoggenmischbrot-mit-Saat.jpg)
+
 Sauerteig, direkt aus dem Kühlschrank
 
 `120 g` Sauerteig
@@ -26,5 +28,3 @@ Teig direkt in den vorgeheißten Bräter geben.
 
 
 Mit Dampf **20 Minuten** im Bräter Backen. Temperatur direkt auf **230°C** senken. Nach den 20 Minuten ohne Deckel noch mal **20 - 25 Minuten** weiterbacken.
-
-![Weizenroggenmischbrot mit Saat](bilder/WeizenRoggenmischbrot-mit-Saat.jpg)

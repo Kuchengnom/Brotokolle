@@ -1,5 +1,7 @@
 # Vinschgerl
 
+![Vinschgerl frisch aus dem Ofen](bilder/Vinschgerl.jpg)
+
 Sauerteig, 2 Tage nach fütterung, direkt aus dem Kühlschrank
 
 `380 g` Sauerteig
@@ -25,8 +27,6 @@ Rast in der Schüssel **2 Stunden**
 Ofen auf **250°C** Vorheizen
 
 Ohne Dampf **25 Minuten** Backen. Temperatur direkt auf **230°C** senken.
-
-![Vinschgerl frisch aus dem Ofen](bilder/Vinschgerl.jpg)
 
 ## Quellen
 

@@ -1,5 +1,7 @@
 # Emmer Vollkorn - Manitoba Sauerteigbrot
 
+![EmmerVollkorn](bilder/EmmerVollkorn.jpg)
+
 Sauerteig, 1 Tag nach fütterung, direkt aus dem Kühlschrank. 
 
 `500 g` Manitoba
@@ -34,8 +36,6 @@ Ofen auf **270°C** Vorheizen
 
 Bei **250°C** Mit Deckel 20 Minuten backen
 Dann bei **230°C** 20 Minuten ohne Deckel fertig backen.
-
-![EmmerVollkorn](bilder/EmmerVollkorn.jpg)
 
 ## Quellen
 
