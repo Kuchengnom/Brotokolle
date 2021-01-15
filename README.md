@@ -19,3 +19,7 @@ Prozesse und Ergebnisse auf [Instagram](https://www.instagram.com/kuchengnom/).
 [Weizensauerteigbrot](Weizensauerteigbrot.md) von [Nacron](https://github.com/nacron)
 
 [Weizensauerteigbrot mit Altbrot](Weizensauerteigbrot-mit-Altbrot.md)
+
+## Dinkel
+
+[Dinkel Joghurt Hefe Brot](Dinkel-Joghurt-Brot.md)
