@@ -6,6 +6,8 @@ Prozesse und Ergebnisse auf [Instagram](https://www.instagram.com/kuchengnom/).
 
 ## Mischbrote
 
+[Weizenroggensauerteigbrot](WeizenRoggenmischbrot.md)
+
 [Weizenroggensauerteigbrot mit Saat](WeizenRoggenmischbrot-mit-Saat.md)
 
 [Emmer Vollkorn, Manitoba](Emmervollkornsauerteigbrot.md)
