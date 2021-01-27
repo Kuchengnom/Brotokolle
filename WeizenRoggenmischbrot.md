@@ -1,22 +1,27 @@
 # Weizen Roggen Mischbrot
 
-Sauerteig, am Backtag aufgefrischt bei 18°C
+:heavy_exclamation_mark: Dieses Rezept bedarf Überarbeitung, vielleicht weniger Zeit zwischen den Faltungen.
 
-`150 g` Sauerteig
+![Weizen Roggensauer](WeizenRoggensauer.jpg)
 
-`150 g` Roggenmehl Type 997
+Sauerteig, nach der zweiten Fütterung bei ca. 20°C
+
+`300 g` Roggenmehl Type 997
 
 `300 g` Weizenmehl Type 550
 
-`300 g` Wasser
+`450 g` Wasser
 
-`10 g` Salz
+`140 g` Sauerteig
 
-Autolyse des Mehls für **45 Minuten**.
+`12 g` Salz
+
+Autolyse des Mehle für **90 Minuten**.
+Dabei die Teigsorten getrennt mit jeweils 50% des Wassers.
 
 Auf Stufe 1 in der Kitchenaid für **~ 5 Minuten** zusammengeben.
 
-Auf Stufe 2 in der Kitchenaid für **~ 7 Minuten** weiterkneten.
+Auf Stufe 2 in der Kitchenaid für **~ 5 Minuten** weiterkneten.
 
 Salz dazu geben und weitere **2 Minuten** kneten
 
