@@ -2,7 +2,7 @@
 Willkommen bei meinen Brotokollen.
 Prozesse und Ergebnisse auf [Instagram](https://www.instagram.com/kuchengnom/).
 
-![EmmerVollkorn](bilder/EmmerVollkorn.jpg)
+![Mythbusters](https://i.imgur.com/1h3K2TT.jpeg)
 
 ## Mischbrote
 
