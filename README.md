@@ -1,6 +1,7 @@
 # Brotokolle
 Willkommen bei meinen Brotokollen.
 Prozesse und Ergebnisse auf [Instagram](https://www.instagram.com/kuchengnom/).
+Rezepte work in Progeress sind in den [issues](https://github.com/Kuchengnom/Brotokolle/issues) zu finden ;)
 
 ![Mythbusters](https://i.imgur.com/1h3K2TT.jpeg)
 
@@ -25,3 +26,7 @@ Prozesse und Ergebnisse auf [Instagram](https://www.instagram.com/kuchengnom/).
 ## Dinkel
 
 [Dinkel Joghurt Hefe Brot](Dinkel-Joghurt-Brot.md)
+
+## Toastbrot
+
+[Weizentoast](Toastbrot.md)
